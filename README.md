@@ -2,9 +2,9 @@
 - 👀 I’m interested in Software Development and would like to talk more about **Web 3**
 - 🌱 I’m currently studying Information Systems Major and leanring more about Web Design and Application Engineering & Development
 - 💞️ I’m looking to collaborate on interesting Software Engineering Projects
-- ✍🏻 Read my Tech Blogs at <a href="https://www.dev.to/mahithchigurupati">Dev.to</a>
+- ✍🏻 Read my Tech Blogs at <a href="https://www.dev.to/mahithchigurupati" target="_blank">Dev.to</a>
 - 📫 Drop me a mail at saimahith.chigurupati@gmail.com
-- 💬 Connect with me on <a href="https://www.linkedin.com/in/mahith-chigurupati">Linkedin</a>
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/mahith-chigurupati" target="_blank">Linkedin</a>
 
 <br><br>
 

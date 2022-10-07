@@ -8,4 +8,4 @@
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=MahithChigurupati&style=flat-square" alt="Profile views"></p>
+<p align="center"><img src="https://gpvc.arturio.dev/MahithChigurupati" alt="Profile views"></p>

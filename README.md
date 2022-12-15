@@ -5,6 +5,7 @@
 - ✍🏻 Read my Tech Blogs at <a href="https://www.dev.to/mahithchigurupati" target="_blank">Dev.to</a>
 - 📫 Drop me a mail at saimahith.chigurupati@gmail.com
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/mahith-chigurupati" target="_blank">Linkedin</a>
+- 📚 School GitHub <a href="https://github.com/SaiMahith-Chigurupati" target="_blank">GitHub(School Account)</a>
 
 <br>
 

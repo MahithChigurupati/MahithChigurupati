@@ -7,6 +7,8 @@
 - 📫 Drop me a mail at saimahith.chigurupati@gmail.com
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/mahith-chigurupati" target="_blank">Linkedin</a>
 - 📚 GitHub Student Account: <a href="https://github.com/SaiMahith-Chigurupati" target="_blank">Husky GitHub</a>
+- ☕️ Buy me a <a href="https://bmc.link/mahithch" target="_blank">Coffee</a>
+- 🪙 Check out my ENS: <a href="http://ens.domains.com/mahithchigurupati.eth" target="_blank">mahithchigurupati.eth</a>
 <br>
 
 <p align="center"><img src="https://gpvc.arturio.dev/MahithChigurupati" alt="Profile views"></p>

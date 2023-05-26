@@ -3,6 +3,8 @@
 - 🌱 I’m currently studying Information Systems Major and leanring more about Web Design and Application Engineering & Development
 - 📖 CourseWork - Application Engineering and Development, Web Design and User Experience Enginering, Network Structures and Cloud Computing, Cryptocurrency and Smart Contract Engineering
 - 💞️ I’m looking to collaborate on interesting Software Engineering Projects
+
+---------------------------------------------------------------------------------
 - ✍🏻 Read my Tech Blogs at <a href="https://www.dev.to/mahithchigurupati" target="_blank">Dev.to</a>
 - 📫 Drop me a mail at saimahith.chigurupati@gmail.com
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/mahith-chigurupati" target="_blank">Linkedin</a>

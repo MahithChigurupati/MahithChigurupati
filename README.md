@@ -6,8 +6,6 @@
 
 ---------------------------------------------------------------------------------
 - ✍🏻 Read my Tech Blogs at <a href="https://www.dev.to/mahithchigurupati" target="_blank">Dev.to</a>
-- 📫 Drop me a mail at saimahith.chigurupati@gmail.com
-- 💬 Connect with me on <a href="https://www.linkedin.com/in/mahith-chigurupati" target="_blank">Linkedin</a>
 - 📚 GitHub Student Account: <a href="https://github.com/SaiMahith-Chigurupati" target="_blank">Husky GitHub</a>
 - 🪙 Check out my ENS: <a href="http://ens.domains.com/mahithchigurupati.eth" target="_blank">mahithchigurupati.eth</a>
 - ☕️ Buy me a <a href="https://bmc.link/mahithch" target="_blank">Coffee</a>

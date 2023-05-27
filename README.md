@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on interesting Software Engineering Projects
 - ✍🏻 Read my Tech Blogs at <a href="https://www.dev.to/mahithchigurupati" target="_blank">Dev.to</a>
 - 📚 GitHub Student Account: <a href="https://github.com/SaiMahith-Chigurupati" target="_blank">Husky GitHub</a>
-- 🪙 Check out my ENS: <a href="http://ens.domains.com/mahithchigurupati.eth" target="_blank">mahithchigurupati.eth</a>
+- 🪙 Check out my ENS: <a href="https://app.ens.domains/mahithchigurupati.eth" target="_blank">mahithchigurupati.eth</a>
 - ☕️ Buy me a <a href="https://bmc.link/mahithch" target="_blank">Coffee</a>
 <br>
 

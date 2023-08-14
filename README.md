@@ -16,10 +16,10 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Image">
 </div>
 
-## <img src="https://github.com/MahithChigurupati/MahithChigurupati/assets/62823527/52f875b6-df2e-4bc2-bf65-245efb25c40d" width="50px"> About me
+## <img src="./assets/about_me.gif" width="50px"> About me
 
 <div align="center">
-    <img align="right" src="https://github.com/MahithChigurupati/MahithChigurupati/assets/62823527/1205cf7a-39b2-4506-b9ec-b11a9c8abe4d" width="350px">
+    <img align="right" src="./assets/Right_Side.gif" width="350px">
 </div>
 I'm a passionate Software Engineer with 3 years of experience, pursuing my Master's degree in Information Systems at Northeastern University. My academic focus converges on the dynamic realm of Blockchain Technology – a domain that not only fascinates me but also propels me to contribute to the future of decentralized applications.
 
@@ -33,21 +33,19 @@ I'm a passionate Software Engineer with 3 years of experience, pursuing my Maste
 - Engineering of Advanced Cryptocurrency Systems 🚀
 - Smartphone-based Web Development 📱
 
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills 🚀</b>
 
 I specialize in:
 
--   Decentralized Application Development 🌐
--   Application Design & Engineering 🛠️
--   iOS Mobile App Development 📱
--   Blockchain Development ⛓️
--   Web Development 🌐
--   Cloud Computing ☁️
+- Decentralized Application Development 🌐
+- Application Design & Engineering 🛠️
+- iOS Mobile App Development 📱
+- Blockchain Development ⛓️
+- Web Development 🌐
+- Cloud Computing ☁️
 
-  
 <br>
 
 ## Tech Stack 🛠️
@@ -75,6 +73,7 @@ I specialize in:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <br>
 
 <div align="center">
@@ -89,7 +88,7 @@ I specialize in:
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/MahithChigurupati/MahithChigurupati/assets/62823527/6df7fab2-3c80-46c4-be7d-51a467668b53" width="80">
+## <b> Let's Connect..!</b><img src="./assets/handshake.gif" width="80">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahith-chigurupati)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mahith_Ch)
@@ -103,6 +102,7 @@ I specialize in:
 <br>
 
 ## <b>Support ❤️️ </b>
+
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/mahithch)
 [![BTC](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge)](https://blockchair.com/bitcoin/address/bc1qw7fuw9hxppftnh6v027n67xvvth6ah37mhzraw)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)](https://app.ens.domains/mahithchigurupati.eth)

@@ -32,7 +32,7 @@ I'm a passionate Software Engineer with 3 years of experience, pursuing my Maste
 - Program Structures and Algorithms 🧠
 - Engineering of Advanced Cryptocurrency Systems 🚀
 - Smartphone-based Web Development 📱
-- Advanced Cloud Computing ☁
+- Advanced Big Data Indexing Techniques 📈
 
 <br>
 
@@ -40,7 +40,7 @@ I'm a passionate Software Engineer with 3 years of experience, pursuing my Maste
 
 I specialize in:
 
-- Decentralized Application Development 🌐
+- Decentralized Web Application Development 🌐
 - Application Design & Engineering 🛠️
 - iOS Mobile App Development 📱
 - Blockchain Development ⛓️

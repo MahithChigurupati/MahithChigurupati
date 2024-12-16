@@ -23,29 +23,16 @@
 </div>
 I'm a passionate Software Engineer with 4 years of experience, recently graduated with a Master’s degree in Information Systems from Northeastern University. Currently, I’m working as a Software Engineer on the Site Reliability Engineering (SRE) team at Walmart, focusing on backend infrastructure. My role involves maintaining system reliability, optimizing backend processes, and ensuring high availability for our services.
 
-### Coursework 📚
+### Skills 🚀</b>
 
 - Application Engineering and Development 🌐
 - Web Design and User Experience Engineering 🎨
 - Network Structures and Cloud Computing ☁️
 - Cryptocurrency and Smart Contract Engineering 💱
-- Program Structures and Algorithms 🧠
+- Data Structures and Algorithms 🧠
 - Engineering of Advanced Cryptocurrency Systems 🚀
-- Smartphone-based Web Development 📱
 - Advanced Big Data Indexing Techniques 📈
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills 🚀</b>
-
-I specialize in:
-
-- Decentralized Web Application Development 🌐
-- Application Design & Engineering 🛠️
 - iOS Mobile App Development 📱
-- Blockchain Development ⛓️
-- Web Development 🌐
-- Cloud Computing ☁️
 
 <br>
 

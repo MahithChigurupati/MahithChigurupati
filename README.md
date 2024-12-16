@@ -26,12 +26,12 @@ I'm a passionate Software Engineer with 4 years of experience, recently graduate
 ### Skills 🚀</b>
 
 - Application Engineering and Development 🌐
-- Web Design and User Experience Engineering 🎨
 - Network Structures and Cloud Computing ☁️
+- Web Design and User Experience Engineering 🎨
 - Cryptocurrency and Smart Contract Engineering 💱
-- Data Structures and Algorithms 🧠
 - Engineering of Advanced Cryptocurrency Systems 🚀
 - Advanced Big Data Indexing Techniques 📈
+- Data Structures and Algorithms 🧠
 - iOS Mobile App Development 📱
 
 <br>

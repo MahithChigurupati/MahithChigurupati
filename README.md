@@ -21,7 +21,7 @@
 <div align="center">
     <img align="right" src="./assets/Right_Side.gif" width="350px">
 </div>
-I'm a passionate Software Engineer with 4 years of experience, recently graduated with a Master’s degree in Information Systems from Northeastern University. Currently, I’m working as a Software Engineer on the Site Reliability Engineering (SRE) team at Walmart, focusing on backend infrastructure. My role involves maintaining system reliability, optimizing backend processes, and ensuring high availability for our services.
+I'm a passionate Software Engineer with 5 years of experience, recently graduated with a Master’s degree in Information Systems from Northeastern University. Currently, I’m working as a Software Engineer on the Site Reliability Engineering (SRE) team at Walmart, focusing on backend infrastructure. My role involves maintaining system reliability, optimizing backend processes, and ensuring high availability for our services.
 
 ### Skills 🚀</b>
 

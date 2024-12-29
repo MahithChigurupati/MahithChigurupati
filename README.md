@@ -76,9 +76,21 @@ I'm a passionate Software Engineer with 5 years of experience, recently graduate
 
 <br>
 
+## Certifications 🏆
+
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/6e4240e09b414a7ea2b76a3e850fd7ab" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certification" width="150" height="150">
+</a>
+
+<a href="https://academy.pega.com/verify-certification?email=mahithchigurupati%40gmail.com" target="_blank">
+    <img src="https://academy.pega.com/sites/default/files/styles/480/public/media/images/2024-08/CSSA_0.png?itok=M3OOg2xf" alt="Pega Certification 2" width="150" height="150">
+</a>
+
+<br>
+
 <!--- 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
 
@@ -91,9 +103,10 @@ I'm a passionate Software Engineer with 5 years of experience, recently graduate
     <img src="https://github-readme-stats.vercel.app/api?username=MahithChigurupati&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
   </a>
 </div> 
-       
+      
 <br>
 -->
+<br>
 
 ## <b> Let's Connect..!</b><img src="./assets/handshake.gif" width="80">
 

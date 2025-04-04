@@ -27,6 +27,7 @@ I'm a passionate Software Engineer with 5 years of experience, recently graduate
 
 - Application Engineering and Development 🌐
 - Network Structures and Cloud Computing ☁️
+- Engineering of AI Agents and GenAI ChatBots 🤖
 - Web Design and User Experience Engineering 🎨
 - Cryptocurrency and Smart Contract Engineering 💱
 - Engineering of Advanced Cryptocurrency Systems 🚀

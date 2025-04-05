@@ -75,6 +75,10 @@ I'm a passionate Software Engineer with 5 years of experience, recently graduate
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA.svg?style=for-the-badge&logo=Milvus&logoColor=white)
+
 <br>
 
 ## Certifications 🏆

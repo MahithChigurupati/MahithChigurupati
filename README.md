@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&pause=1000&lines=Husky+🐾+from+Northeastern+University;Masters+in+Information+Systems+🎓;Software+Engineer+at+Walmart+🔆"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&pause=1000&lines=Husky+🐾+from+Northeastern+University;Masters+in+Information+Systems+🎓;Software+Engineer+at+Cisco+🌉"></a>
 </p>
 
 <br>
@@ -21,7 +21,7 @@
 <div align="center">
     <img align="right" src="./assets/Right_Side.gif" width="350px">
 </div>
-I'm a passionate Software Engineer with 5 years of experience, recently graduated with a Master’s degree in Information Systems from Northeastern University. Currently, I’m working as a Software Engineer on the Site Reliability Engineering (SRE) team at Walmart, focusing on backend infrastructure. My role involves maintaining system reliability, optimizing backend processes, and ensuring high availability for our services.
+I'm a passionate Software Engineer with 5 years of experience, recently graduated with a Master’s degree in Information Systems from Northeastern University. Currently, I’m working as a Software Engineer on the Cloud Security Engineering team at Cisco, focusing on engineering cloud security solutions.
 
 ### Skills 🚀</b>
 
@@ -34,6 +34,7 @@ I'm a passionate Software Engineer with 5 years of experience, recently graduate
 - Advanced Big Data Indexing Techniques 📈
 - Data Structures and Algorithms 🧠
 - iOS Mobile App Development 📱
+- Cloud Security 🔐
 
 <br>
 

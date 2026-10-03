@@ -8,10 +8,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=MahithChigurupati&label=Profile%20views&color=0047AB&style=plastic?" alt="MahithChigurupati" height="25px" width="160px"/> 
-</p>
-
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Image">
 </div>
